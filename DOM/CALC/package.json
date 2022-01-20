@@ -1,0 +1,15 @@
+{
+  "name": "calc",
+  "version": "1.0.0",
+  "description": "un calcolatore in node",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mario piccitto",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2"
+  }
+}
